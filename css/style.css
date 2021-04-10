@@ -1,0 +1,68 @@
+
+body {
+  padding-top: 40px;
+}
+
+.navbar-default {
+    background-color: #b93e0d;
+    border-color: #d8561a;
+}
+
+.navbar-default .navbar-brand {
+    color: #f1f2f7;
+}
+
+.navbar-default .navbar-brand:hover {
+    color: #fff;
+}
+#btn-success{
+  text-align: center;
+}
+.container-fluid .text-center {
+  margin: 15px 0;
+  color: #f1f2f7 !important;
+}
+
+.panel-default > .panel-heading {
+    background-color: #e74504;
+    border-color: #d44604;
+    color: #fff;
+}
+
+.input-group-addon {
+    background-color: #f11008;
+    border: 1px solid #f11008;
+    border-radius: 4px;
+    color: #f1f2f7;
+}
+
+.footer {
+  /*position: absolute;
+  bottom: 0;*/
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 50px;
+  text-align: center;
+  background-color: #e74504;
+}
+
+.btn-tambah {
+	margin-top: 10px;
+}
+
+.center {
+	text-align: center;
+}
+
+.pagination {
+	margin-top: -20px;
+}
+
+.btn-submit {
+	width: 80px;
+}
+
+.btn-reset {
+	width: 80px;
+	margin-left: 10px;
+}
